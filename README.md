@@ -1,5 +1,5 @@
 # About Me
-##Katherine Vaughan
+## Katherine Vaughan
 ##### Academics
 B.S. Computer Science  
 B.A. Computing in the Arts with Studio Art concentration
