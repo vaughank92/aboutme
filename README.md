@@ -1,7 +1,5 @@
 # About Me
-
 ##Katherine Vaughan
-
 
 ##### Academics
 B.S. Computer Science  
